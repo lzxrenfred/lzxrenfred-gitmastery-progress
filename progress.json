@@ -302,5 +302,14 @@
       "You have successfully completed the exercise!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-push",
+    "started_at": 1789696183.106051,
+    "completed_at": 1789696184.603737,
+    "comments": [
+      "Great work pushing the PQR branch to your fork!"
+    ],
+    "status": "Completed"
   }
 ]
